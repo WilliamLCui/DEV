@@ -1,0 +1,22 @@
+%YAML:1.0
+---
+front: !!opencv-matrix
+   rows: 4
+   cols: 2
+   dt: f
+   data: [ 381., 312., 1364., 323., 118., 408., 1628., 420. ]
+back: !!opencv-matrix
+   rows: 4
+   cols: 2
+   dt: f
+   data: [ 345., 344., 1557., 343., 77., 517., 1805., 507. ]
+left: !!opencv-matrix
+   rows: 4
+   cols: 2
+   dt: f
+   data: [ 419., 471., 1325., 454., 194., 569., 1596., 565. ]
+right: !!opencv-matrix
+   rows: 4
+   cols: 2
+   dt: f
+   data: [ 610., 428., 1499., 463., 310., 523., 1686., 547. ]

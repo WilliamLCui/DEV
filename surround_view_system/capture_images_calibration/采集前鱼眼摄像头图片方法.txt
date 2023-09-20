@@ -1,0 +1,7 @@
+1. 将snap_1.sh传至板上 emmc/avs/data 路径
+2. chmod 777 snap_1.sh 更改文件权限
+3. 切换至近景画面
+4. ./snap_1.sh 运行脚本
+5. 在前鱼眼摄像头前摆放标定板位置，按回车采集图像，共采集30张，结束自动打包为yuv_calibrate.tar.gz
+6. 将yuv_calibrate.tar.gz传回电脑，解压为out_calibrate文件夹
+7. 在同级目录运行 yuv2jpg_1.bat 生成jpg图片

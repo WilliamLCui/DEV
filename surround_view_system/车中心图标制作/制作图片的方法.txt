@@ -1,0 +1,9 @@
+制作图片的方法如下：
+1、先PS，另外保存为PNG图片；
+2、打开word空文档，插入这个PNG图片；
+3、在word中的图片上，右键另存为另外一个PNG图片；
+4、用ffmpeg工具转换成rgba格式的bmp图片，具体如下
+例如原图片为76-05.png，输出为76.bmp，则
+命令：ffmpeg.exe -i 76-05.png -pix_fmt rgba 76.bmp
+5、替换至板上 bin/res/76.bmp 文件
+6、更改文件权限：chmod 777 76.bmp

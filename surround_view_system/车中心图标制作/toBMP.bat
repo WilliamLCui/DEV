@@ -1,0 +1,1 @@
+ffmpeg.exe -i 76-05.png -pix_fmt rgba 76.bmp

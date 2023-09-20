@@ -1,0 +1,143 @@
+# ptGui project file
+
+#-encoding utf8
+#-pathseparator \
+#-fileversion 41
+#-previewwidth 3669
+#-previewheight 428
+#-vfov 42
+#-resolution 300
+#-fixaspect 0
+#-outputfile 
+#-ccdcrop 1
+#-hasbeenoptimized 0
+#-hvcpmode 1
+#-morphmode 2
+#-jpegparameters 100 0
+#-tiffparameters 8bit packbits alpha_assoc
+#-psdparameters 8bit packbits layered
+#-qtvrparameters 800 600 1 1000 70 0 0 -180 180 0 -90 90 90 10 120 1
+#-honorexiforientation 1
+#-exrparameters noalpha
+#-hdroutputhdrblended
+#-hdroutputtonemapped
+#-hdrfileformat hdr
+#-hdrmethod fuse
+#-hdrpsdparameters float none layered
+#-tonemapsettings 0 0 0.5 1 0 20 0 0 2 0.27 0.67 0.06
+#-fusesettings 0.5 0 0.2 0 0
+#-cameracurve 3.441228 -0.551975 0.294423 -0.095632 0.072139
+#-vignettingparams 
+#-wbexposure 0 0 0
+#-pmoptexposuremode auto
+#-pmoptvignettingmode enabled
+#-pmoptwbmode disabled
+#-pmoptflaremode disabled
+#-pmoptcameracurvemode auto
+#-exposurecorrection 0
+#-blendweight 100 100 100 100 100 100
+#-optviewpoint 000000
+#-colorcorrectlayers
+#-useexif1
+#-batchbuilder_useexif 0
+#-stitcher ptgui
+#-blender ptgui
+#-blenderfeather 0
+#-optimizer ptgui
+#-interpolator default
+#-templateapplied
+#-simpleoptimizer
+#-imgrotate444444
+#-cpinactive
+#-imginactive
+#-linktoprevious
+#-previewinactive
+#-outputcrop 0 1 0 1
+#-morphcp
+#-nooptcp
+#-location default
+#-viewingdirection default
+#-alignsettings_generatecp 1
+#-alignsettings_optimize 1
+#-alignsettings_optimizeprealign 1
+#-alignsettings_straighten 1
+#-alignsettings_fit 1
+#-alignsettings_chooseprojection 1
+#-alignsettings_setoptimumsize 1
+#-alignsettings_limitsize 500
+#-alignsettings_optimizeexposure 0
+#-hdrsettings_defaultlinkmode nolink
+#-hdrsettings_donotask 0
+#-batchsettings_align 1
+#-batchsettings_stitch 1
+#-batchsettings_stitchonlyifcontrolpoints 1
+#-defaultprojectfilenamemode firstsourceimage
+#-defaultprojectfilename_custom " Panorama"
+#-defaultprojectfoldermode sourcefolder
+#-defaultprojectfolder_custom ""
+#-defaultpanoramafilenamemode asproject
+#-defaultpanoramafilename_custom ""
+#-defaultpanoramafoldermode projectfolder
+#-defaultpanoramafolder_custom ""
+#-userelativesourceimagepaths 1
+#-optimizeraskreinitialize 1
+#-applytemplate_lens 1
+#-applytemplate_imageparams 1
+#-applytemplate_crop 1
+#-applytemplate_mask 1
+#-applytemplate_panoramasettings 1
+#-applytemplate_projectsettings 1
+#-applytemplate_optimizer 1
+#-globalcrop 0 0 0 0 0 0 0 0.5
+#-theoreticalhfov 37.33564553022944
+#-rect_compression_x 0
+#-rect_compression_y 0
+#-cylindrical_compression_y 1
+#-transverse_cylindrical_compression_x 0
+#-vedutismo_compression_x 1
+#-transverse_vedutismo_compression_y 1
+#-stereographic_compression 1
+#-rectifisheye_compression 1
+# 全景图设置:
+p w3463 h404 f1 v360 u20 n"JPEG g0 q100"
+m g1 i0 f0
+
+# 输入图像:
+#-dummyimage
+# 以下行包含一个'虚拟图像'包含一些方案的全局参数
+o w1 h1 y0 r0 p0 v66.71019198987561 a0 b0 c0 f0 d0 e0 g0 t0
+#-imgfile 640 512 "D:\xinchuanhui\red\car\output2_0.jpg"
+#-metadata -1 -1 -1 0000-00-00T00:00:00 3*8 0 -1 -1 -1 * * * curve -1 * M
+#-viewpoint 0 0 0 0 0
+#-exposureparams 0 0 0 0
+o f0 y-3.608691026370502 r-2.174603568219694 p1.383518308825526 v=0 a=0 b=0 c=0 d=0 e=0 g=0 t=0
+#-imgfile 640 512 "D:\xinchuanhui\red\car\output2_1.jpg"
+#-metadata -1 -1 -1 0000-00-00T00:00:00 3*8 0 -1 -1 -1 * * * curve -1 * M
+#-viewpoint 0 0 0 0 0
+#-exposureparams 0 0 0 0
+o f0 y56.57873530230323 r-3.270424619423931 p0.327772381446857 v=0 a=0 b=0 c=0 d=0 e=0 g=0 t=0
+#-imgfile 640 512 "D:\xinchuanhui\red\car\output2_2.jpg"
+#-metadata -1 -1 -1 0000-00-00T00:00:00 3*8 0 -1 -1 -1 * * * curve -1 * M
+#-viewpoint 0 0 0 0 0
+#-exposureparams 0 0 0 0
+o f0 y115.4065535872792 r-2.991517674524209 p3.244207788324931 v=0 a=0 b=0 c=0 d=0 e=0 g=0 t=0
+#-imgfile 640 512 "D:\xinchuanhui\red\car\output2_3.jpg"
+#-metadata -1 -1 -1 0000-00-00T00:00:00 3*8 0 -1 -1 -1 * * * curve -1 * M
+#-viewpoint 0 0 0 0 0
+#-exposureparams 0 0 0 0
+o f0 y176.9479260988435 r3.074760653146301 p0.1594828619029014 v=0 a=0 b=0 c=0 d=0 e=0 g=0 t=0
+#-imgfile 640 512 "D:\xinchuanhui\red\car\output2_4.jpg"
+#-metadata -1 -1 -1 0000-00-00T00:00:00 3*8 0 -1 -1 -1 * * * curve -1 * M
+#-viewpoint 0 0 0 0 0
+#-exposureparams 0 0 0 0
+o f0 y-120.7874625908062 r-0.4627942095949958 p2.633840944491679 v=0 a=0 b=0 c=0 d=0 e=0 g=0 t=0
+#-imgfile 640 512 "D:\xinchuanhui\red\car\output2_5.jpg"
+#-metadata -1 -1 -1 0000-00-00T00:00:00 3*8 0 -1 -1 -1 * * * curve -1 * M
+#-viewpoint 0 0 0 0 0
+#-exposureparams 0 0 0 0
+o f0 y-64.55070037065764 r1.192962432123567 p0.9785997513661323 v=0 a=0 b=0 c=0 d=0 e=0 g=0 t=0
+
+# 控制点:
+
+# 优化器:
+v v y2 r2 p2 y3 r3 p3 y4 r4 p4 y5 r5 p5 y6 r6 p6
